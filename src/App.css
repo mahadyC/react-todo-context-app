@@ -1,0 +1,14 @@
+.add_padding {
+  background: orange !important;
+}
+/* use important as less as possible, like never  */
+
+main {
+  height: calc(100vh -56px);
+}
+
+.hero {
+  background: url("https://source.unsplash.com/lXayeW_s3-0") no-repeat fixed center center/cover;
+  height: 100vh;
+  color: white;
+}
